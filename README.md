@@ -1,2 +1,2 @@
-# training_python
-A collection of Python exercises, projects, and learning materials for mastering Python programming.
+# learning-journey
+A personal repository documenting my learning journey across different technologies — starting with Python and SQL.
