@@ -3,3 +3,4 @@ A personal repository documenting my learning journey across different technolog
 
 * 01_python
 * 02_bash
+* 03_kubernetes
