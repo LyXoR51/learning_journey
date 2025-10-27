@@ -2,5 +2,5 @@
 A personal repository documenting my learning journey across different technologies — starting with Python and SQL.
 
 * 01_python
-* 02_bash
-* 03_kubernetes k8s
+* 02_SQL
+* 03_bash
