@@ -3,4 +3,5 @@ A personal repository documenting my learning journey across different technolog
 
 * 01_python
 * 02_SQL
-* 03_bash
+* 03_git
+* 04_bash
